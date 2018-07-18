@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Auto Refresh",
+		"BetterFindBuffer",
+		"BracketHighlighter",
+		"C Improved",
+		"C++ Completions",
+		"ClangAutoComplete",
+		"Cscope",
+		"CTags",
+		"Diffy",
+		"JavaScript Completions",
+		"Package Control",
+		"PackageResourceViewer",
+		"QuickGotoAnything",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeREPL"
+	]
+}
